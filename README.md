@@ -1,16 +1,16 @@
-#Column Transposition Cipher
+# Column Transposition Cipher
 
-##Build executable
+## Build executable
 ```
 make
 ```
 
-##Run executable
+## Run executable
 ```
 make run
 ```
 
-##Clean executable
+## Clean executable
 ```
 make clean
 ```
